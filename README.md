@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Contact
-📧 *Email:* [yourname@email.com]  
+📧 *Email:* gnagakalyan96@email.com 
 🌐 *Portfolio:* [https://gnagakalyan96-wq.github.io/portfolio/](https://gnagakalyan96-wq.github.io/portfolio/)  
 💼 *GitHub:* [https://github.com/gnagakalyan96-wq](https://github.com/gnagakalyan96-wq)
 
